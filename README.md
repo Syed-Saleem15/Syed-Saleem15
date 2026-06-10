@@ -1,104 +1,150 @@
 <h1 align="center">Hi 👋, I'm Syed Saleem</h1>
-<h3 align="center">Computer Science Engineering Student | AI Enthusiast | Problem Solver</h3>
+
+<h3 align="center">
+Computer Science Engineering Student | AI Enthusiast | Software Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syed-Saleem15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Syed-Saleem15">
+    <img src="https://komarev.com/ghpvc/?username=Syed-Saleem15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Bachelor of Engineering in Computer Science and Engineering  
-🏫 CMR Institute of Technology (CMRIT), Bengaluru  
-📅 2022 – 2026
+🎓 Computer Science Engineering Student at **CMR Institute of Technology (CMRIT), Bengaluru**
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Development.
+📅 **2022 – 2026**
 
-🔭 Currently working on:
-- AI-Based Road Safety Monitoring
-- Pothole Detection and Size Estimation using Computer Vision
-- Agentic AI Applications
+💡 Passionate about building intelligent systems using Artificial Intelligence, Machine Learning, and Computer Vision.
 
-🌱 Continuously learning:
+🔭 Currently exploring:
+- Agentic AI
 - Machine Learning
-- Deep Learning
-- System Design
-- Data Structures & Algorithms
+- Computer Vision
+- Software Development
 
-🎯 Goals:
-- Build impactful AI-driven solutions
-- Excel in software engineering and problem-solving
-- Contribute to real-world technology projects
+🌱 Constantly improving my:
+- Data Structures & Algorithms
+- Problem Solving Skills
+- Software Engineering Practices
+
+🎯 Career Goal:
+Become a skilled Software Engineer capable of building impactful AI-driven solutions for real-world challenges.
 
 ---
 
 ## 💻 Technical Skills
 
 ### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
 
-### Technologies & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,flutter,mysql,vscode,androidstudio" />
-</p>
+- C
+- C++
+- Java
+- Python
+
+### Frameworks & Technologies
+
+- Flutter
+- MySQL
+- Machine Learning
+- Computer Vision
+- Git & GitHub
+- Docker
+
+### Development Tools
+
+- Visual Studio Code
+- Android Studio
+- Qt Design Studio
+- Qt / QML
+- Maven
+- Gradle
+- Jenkins
 
 ### Areas of Interest
+
 - Artificial Intelligence
+- Agentic AI
 - Machine Learning
 - Computer Vision
 - Software Development
 - Data Structures & Algorithms
-- Cloud & DevOps Fundamentals
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🚧 AI-Based Road Safety Monitoring
-Detection and analysis of road potholes using modern computer vision techniques for improving road maintenance and safety.
+
+Developed an intelligent pothole detection and size estimation system using Computer Vision techniques. The project focuses on improving road safety and assisting authorities in road maintenance planning.
 
 ### 🛒 Rubber Stamp Shop
-A web-based e-commerce platform with product browsing, shopping cart, and administration features.
+
+A full-stack web application with product browsing, cart functionality, and administrative product management features.
 
 ### ⚖️ Criminal Record Management System
-A database-driven application designed to efficiently manage and organize criminal records.
+
+Database-driven software designed for efficient storage, retrieval, and management of criminal records.
 
 ### 🏠 House Price Prediction
-Machine Learning project for predicting house prices using various real-estate features.
+
+Machine Learning model for predicting house prices using property-related features and historical data.
+
+### 🎯 Timer-Based Quiz Application
+
+Java-based quiz application implementing timers and score evaluation mechanisms.
 
 ---
 
-## 📊 GitHub Statistics
+## 🧩 Coding Profiles
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syed-Saleem15&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Saleem15&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- Developed multiple academic and personal software projects.
-- Built AI and Machine Learning based applications.
-- Actively improving problem-solving and software engineering skills.
-- Exploring modern AI systems and intelligent agents.
+- GitHub: https://github.com/Syed-Saleem15
+- LeetCode: https://leetcode.com/u/Syed_Saleem/
+- LinkedIn: https://www.linkedin.com/in/syed-saleem-61ab35309/
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Data Structures & Algorithms
 - Agentic AI Systems
+- Advanced Machine Learning
 - Deep Learning
 - Software Architecture
-- MLOps
+- System Design
+- Cloud & DevOps Concepts
+
+---
+
+## 🏆 Highlights
+
+✔ Built multiple academic and personal software projects
+
+✔ Developed AI and Machine Learning applications
+
+✔ Experience with software development, databases, and deployment tools
+
+✔ Strong interest in problem solving and emerging technologies
+
+✔ Continuously learning modern AI technologies and software engineering practices
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Syed-Saleem15&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Saleem15&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Saleem15&theme=tokyonight" />
+</p>
 
 ---
 
@@ -108,6 +154,7 @@ Machine Learning project for predicting house prices using various real-estate f
 <a href="https://www.linkedin.com/in/syed-saleem-61ab35309/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
+
 <a href="https://github.com/Syed-Saleem15" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
 </a>
@@ -115,6 +162,6 @@ Machine Learning project for predicting house prices using various real-estate f
 
 ---
 
-### 💭 Quote
+## 💭 Motto
 
-> "Success is built through consistent effort, continuous learning, and the courage to keep moving forward."
+> "Consistency, curiosity, and continuous learning are the foundations of long-term success."
